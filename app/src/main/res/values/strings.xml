@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Mappy</string>
+    <string name="mapbox_access_token" translatable="false"
+        tools:ignore="UnusedResources">
+        pk.eyJ1IjoiaGFyc2hyYWpwdXQyOTA2IiwiYSI6ImNsdHh1a3ZzdTBhdG0yaG8wMHN2N3RleTIifQ.dipVT6HSoIx5l5ZpmCVeeg
+    </string>
+</resources>
